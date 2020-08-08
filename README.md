@@ -1,10 +1,5 @@
 ### Hi there 👋 thanks for stumbling across my Github...... not much public at the mo but I'm hoping to change that going forward! Please do hook up with me on here and Twitter, follow my YouTube and Blog at http://jonnychipz.com
 
-<!--
-**jonnychipz/jonnychipz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Azure Migrations and DC transformation
 - 🌱 I’m currently learning Azure Data Analytics and AI
 - 👯 I’m looking to collaborate on Terraform and Ansable work on Azure
@@ -13,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Twitter @jonnychipz
 - 😄 Pronouns: him, his, male
 - ⚡ Fun fact: I like Rick Astley
--->
+

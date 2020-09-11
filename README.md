@@ -1,4 +1,4 @@
-### Hi there 👋 thanks for stumbling across my Github...... not much public at the mo but I'm hoping to change that going forward! Please do hook up with me on here and Twitter, follow my YouTube and Blog at http://jonnychipz.com I am also a proud Irganiser for the Welsh Azure User Group, give the group a follow on twitter https://www/twitter.com/welshazure
+### Hi there 👋 thanks for stumbling across my Github...... not much public at the mo but I'm hoping to change that going forward! Please do hook up with me on here and Twitter, follow my YouTube and Blog at http://jonnychipz.com I am also a proud Irganiser for the Welsh Azure User Group, give the group a follow on twitter https://www.twitter.com/welshazure
 
 - 🔭 I’m currently working on Azure Migrations and DC transformation
 - 🌱 I’m currently learning Azure Data Analytics and AI

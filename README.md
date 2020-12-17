@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Azure Migrations and DC transformation
 - 🌱 I’m currently learning Azure Data Analytics and AI
 - 👯 I’m looking to collaborate on content for Azure, so reach out to me!
-- 🤔 I’m looking for help with Live Streaming interesting Tech content..... do you have something mind blowing you would t mind sharing in a live stream?
+- 🤔 I’m looking for help with Live Streaming interesting Tech content..... do you have something mind blowing you wouldnt mind sharing in a live stream?
 - 💬 Ask me about anything 
 - 📫 How to reach me: Twitter @jonnychipz
 - 😄 Pronouns: him, his, male

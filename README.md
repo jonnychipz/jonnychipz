@@ -9,4 +9,5 @@
 - 😄 Pronouns: him, he, his, male
 - ⚡ Fun fact: I play drums in a Classic Rock Band 
 
-![image](https://jonnychips.files.wordpress.com/2020/10/img_4620.jpg?w=300)
+[![IMAGE](https://jonnychips.files.wordpress.com/2020/10/img_4620.jpg?w=300)](https://www.jonnychipz.com)] </br>
+[![IMAGE](https://jonnychips.files.wordpress.com/2021/01/likesubscribe.jpg?w=452)](http://www.youtube.com/cloudtalkwithjonnychipz?sub_confirmation=1)
